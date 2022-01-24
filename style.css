@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    color: chartreuse;
+}
+.first-btn{
+    width: 100%;
+}
+.container{
+    width: 100vh;
+}
+.block-btn{
+    width: 100%;
+    margin-top: 0.5rem;
+}
